@@ -12,7 +12,8 @@ API é a abreviação para a sigla "Application Programming Interface", que em p
 - Cliente fez uma requisição de um hamburger.(Interface)
 - Atendente anotou o pedido e avisou a cozinha(Processamento interno)
 
-![alt text](image.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b1acd103-a816-49f4-8fba-1b632d34e5c3" />
+
 (Imagem Ilustrativa)
 
 Você recebeu seu pedido sem precisar saber como foi a organização da cozinha para entregar se pedido.
@@ -64,7 +65,8 @@ JSON = JavaScript Object Notation
 Em resumo ele é um formato de texto usado para transmitir dados entre os computadores, ele tem uma estrutura de chave:valor e listas. Usamos ele porque ele é extremamente leve, é fácil de ler e é universal.
 
 **Exemplo**
-![alt text](image-1.png)
+<img width="429" height="522" alt="image" src="https://github.com/user-attachments/assets/6b1767a9-a1f3-427d-b208-7891b80ac4c6" />
+
 
 ##
 
