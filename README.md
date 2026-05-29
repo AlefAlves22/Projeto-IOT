@@ -65,6 +65,8 @@ JSON = JavaScript Object Notation
 Em resumo ele é um formato de texto usado para transmitir dados entre os computadores, ele tem uma estrutura de chave:valor e listas. Usamos ele porque ele é extremamente leve, é fácil de ler e é universal.
 
 **Exemplo**
+
+
 <img width="429" height="522" alt="image" src="https://github.com/user-attachments/assets/6b1767a9-a1f3-427d-b208-7891b80ac4c6" />
 
 
